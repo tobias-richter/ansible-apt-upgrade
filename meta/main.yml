@@ -1,0 +1,11 @@
+galaxy_info:
+  role_name: apt_upgrade
+  author: Tobias Richter
+  description: Ansible Role for performing an APT upgrade.
+  license: Apache
+  min_ansible_version: 2.7
+
+  platforms:
+    - name: Debian
+      versions:
+        - buster
