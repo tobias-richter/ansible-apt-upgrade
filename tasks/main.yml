@@ -7,5 +7,6 @@
     autoclean: true
 
 - name: Clean apt.
-  command: apt-get clean
+  apt:
+    autoclean: yes
   changed_when: false
