@@ -9,4 +9,3 @@
 - name: Clean apt.
   apt:
     autoclean: yes
-  changed_when: false
