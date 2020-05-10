@@ -8,4 +8,7 @@ galaxy_info:
   platforms:
     - name: Debian
       versions:
-        - buster
+        - all
+    - name: Ubuntu
+      versions:
+        - all
