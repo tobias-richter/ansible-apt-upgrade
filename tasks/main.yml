@@ -13,3 +13,5 @@
 - name: Clean apt-get.
   command: apt-get clean
   changed_when: false
+  tags:
+  - skip_ansible_lint
