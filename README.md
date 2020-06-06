@@ -14,7 +14,7 @@ See [defaults/main.yml](defaults/main.yml) for the documented role variables.
 
 ## Example Playbook
 
-This playbook executes a full upgrade.
+This playbook executes a full apt upgrade.
 
     - hosts: apt_upgrade
 	  roles:
