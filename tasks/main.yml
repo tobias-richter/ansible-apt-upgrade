@@ -9,3 +9,7 @@
 - name: Clean apt.
   apt:
     autoclean: yes
+
+- name: Clean apt-get.
+  command: apt-get clean
+  changed_when: false
