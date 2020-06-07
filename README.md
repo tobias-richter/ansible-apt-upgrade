@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tobias-richter/ansible-apt-upgrade.svg?branch=master)](https://travis-ci.org/tobias-richter/ansible-apt-upgrade)
 
-This roles performs an apt upgrade and cleans the apt cache afterwards.
+This role performs an apt upgrade and cleans the apt cache afterwards.
 
 ## Requirements
 
