@@ -1,6 +1,6 @@
 # tobias_richter.apt_upgrade
 
-[![Build Status](https://travis-ci.org/tobias-richter/ansible-apt-upgrade.svg?branch=master)](https://travis-ci.org/tobias-richter/ansible-apt-upgrade)
+[![Build Status](https://github.com/tobias-richter/ansible-apt-upgrade/workflows/CI/badge.svg)](https://github.com/tobias-richter/ansible-apt-upgrade/actions)
 
 This role performs an apt upgrade and cleans the apt cache afterwards.
 
