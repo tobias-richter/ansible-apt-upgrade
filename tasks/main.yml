@@ -15,4 +15,8 @@
   command: apt-get clean
   changed_when: false
   tags:
-  - skip_ansible_lint
+    - skip_ansible_lint
+
+- name: Update package cache after upgrade.
+  apt:
+    update_cache: yes
