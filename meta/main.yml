@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: apt_upgrade
+  namespace: tobias_richter
   author: Tobias Richter
   description: Ansible Role for performing an APT upgrade.
   license: Apache

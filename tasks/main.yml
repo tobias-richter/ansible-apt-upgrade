@@ -1,3 +1,4 @@
+---
 - name: Update package cache & dist-upgrade packages
   apt:
     upgrade: "{{ apt_upgrade }}"

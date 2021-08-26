@@ -1,2 +1,3 @@
+---
 # The upgrade mode to use. See https://docs.ansible.com/ansible/latest/modules/apt_module.html for available options.
 apt_upgrade: "dist"
